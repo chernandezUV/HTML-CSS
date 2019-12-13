@@ -30,7 +30,7 @@ img {
 .hero {
   grid-area: hero;
   min-height: 400px;
-  background: white url(images/taco.jpg);
+  background: white url(../images/taco.jpg);
   background-size: cover;
   background-position: bottom right;
   padding: 50px;
